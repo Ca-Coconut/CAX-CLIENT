@@ -1,2 +1,2 @@
 # CAX-CLIENT
-CAX ClENT is a client whose website interface was redesigned by Minh Nhat, giving it a more modern look. | ✅ |
+CAX CLIENT is a client that provides support . | ✅ |
